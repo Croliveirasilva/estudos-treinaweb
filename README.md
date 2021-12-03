@@ -1,2 +1,9 @@
-# estudos-treinaweb
-Estudos realizados na treinaweb 
+[![DIO](https://www.treinaweb.com.br/assets/images/treinaweb-logo@2x.png)](https://www.treinaweb.com.br/)
+
+# Repositório para arquivar estudos realizados na plataform Treinaweb
+## Aqui teremos os desafios, exercícios e codigos criados durante os estudos na plataforma 
+
+![HTML5](https://img.shields.io/badge/HTML5-4E56FF?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-4E56FF?style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-4E56FF?style=for-the-badge&logo=javascript&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-4E56FF?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-4E56FF?style=for-the-badge&logo=react&logoColor=white) ![React-Native](https://img.shields.io/badge/React_Native-4E56FF?style=for-the-badge&logo=react&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-4E56FF?style=for-the-badge&logo=nodedotjs&logoColor=white) ![C#](https://img.shields.io/badge/C%23-4E56FF?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ANGULARjs](https://img.shields.io/badge/AngularJS-4E56FF?style=for-the-badge&logo=angularjs&logoColor=white)
+
+![PHP](https://img.shields.io/badge/PHP-48D359?style=for-the-badge&logo=php&logoColor=white) ![PHP](https://img.shields.io/badge/Laravel-48D359?style=for-the-badge&logo=laravel&logoColor=white) ![Net](https://img.shields.io/badge/.NET-48D359?style=for-the-badge&logo=dotnet&logoColor=white) ![Mongodb](https://img.shields.io/badge/MongoDB-48D359?style=for-the-badge&logo=mongodb&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-48D359?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-48D359?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
